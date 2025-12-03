@@ -56,6 +56,9 @@ Class-size indicators again have limited predictive value.
 1. PCA - reduces dimensionality while retaining most variance. First two components cluster strongly by SES and prior academic performance.
 2. K-Means - students cluster into low-, medium-, and high-achievement groups. Clusters are driven primarily by socioeconomic status and early test scores rather than class size.
 
+**Contact**
+You can reach me at rangi.ho@gmail.com if you would like to verify the results or request a copy of the paper.
+
 **Key Takeaways**
 ML results reinforce the econometric findings: class size has limited predictive power compared to SES and prior academic performance.
 Ensemble models outperform linear models across regression and classification tasks.
